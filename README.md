@@ -39,7 +39,7 @@
 
 ```javascript
 const NaasMind = {
-    name: "NaasMind",
+    name: "Naasmind",
     type: "Software Development Company",
     location: "Bangladesh 🇧🇩",
     founded: 2024,
@@ -168,7 +168,7 @@ const NaasMind = {
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ripannaasmind&custom_title=NaasMind%20Contribution%20Graph&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&title_color=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ripannaasmind&custom_title=Naasmind%20Contribution%20Graph&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&title_color=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -200,7 +200,7 @@ const NaasMind = {
 
 <p>
   <a href="mailto:hello.naasmind@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact@naasmind.com-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-hello.naasmind@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -238,7 +238,7 @@ const NaasMind = {
 </p>
 
 <p align="center">
-  <b>© 2024 NaasMind. All Rights Reserved.</b>
+  <b>© 2026 Naasmind. All Rights Reserved.</b>
 </p>
 
 <p align="center">
