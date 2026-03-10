@@ -199,13 +199,13 @@ const NaasMind = {
 </p>
 
 <p>
-  <a href="mailto:contact@naasmind.com">
+  <a href="mailto:hello.naasmind@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact@naasmind.com-10B981?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p>
-  <a href="https://wa.me/+8801XXXXXXXXX">
+  <a href="https://wa.me/+8801772337656">
     <img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://t.me/naasmind">
