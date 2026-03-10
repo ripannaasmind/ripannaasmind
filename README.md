@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=Naasmind&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Transforming%20Ideas%20Into%20Digital%20Reality&descAlignY=55&descSize=20&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=Naasmind&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Conencting%20Tech%20and%20People&descAlignY=55&descSize=20&descColor=ffffff"/>
 </div>
 
 <p align="center">
@@ -20,10 +20,10 @@
   <a href="https://naasmind.com">
     <img src="https://img.shields.io/badge/🌐_Website-10B981?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="mailto:contact@naasmind.com">
+  <a href="mailto:hello.naasmind@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-059669?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/company/naasmind">
+  <a href="https://linkedin.com/company/naasmindltd">
     <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://facebook.com/naasmind">
